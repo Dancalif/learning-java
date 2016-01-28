@@ -1,9 +1,5 @@
-#Basic Project
+#Learning Java Project
 
-Basic Java Maven Project Structure
-
-*QA
-*Java
-*Maven
+The exirsises from programmingbydoing.com that were done.
 
 [Denis Umanets](http://sqasolution.com)
